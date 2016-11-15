@@ -1,3 +1,4 @@
+//测试需要改动胡
 (function(){
     var html=document.documentElement;
     var width=html.getBoundingClientRect().width; 
